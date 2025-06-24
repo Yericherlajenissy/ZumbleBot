@@ -54,15 +54,11 @@ Or run locally with a requirements.txt provided.
 
 Run the backend:
 
-bash
-Copy
-Edit
+
 python app.py
 Run the frontend:
 
-bash
-Copy
-Edit
+
 cd frontend
 npm install
 npm start
@@ -80,10 +76,12 @@ npm start
 
 # 😄 Fun but Serious Title Suggestions
 “ZumbleBot: Generative AI’s One-Stop Chaos Shop”
+
 “ZumbleBot: Input Text, Output Anything!”
+
 “ZumbleBot – AI's Buffet Table. Text In. Everything Out.”
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 👥 Contributors
