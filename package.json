@@ -1,0 +1,13 @@
+{
+    "name": "multi_modal_generator",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "generate-music": "node scripts/generate_music.js"
+    },
+    "dependencies": {
+      "@xenova/transformers": "github:xenova/transformers.js",
+      "wavefile": "^14.0.1"
+    }
+  }
+  
