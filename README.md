@@ -33,9 +33,6 @@ Platform	Google Colab + Local Execution
 Version Control	Git + GitHub
 
 # 🧪 How It Works
-mermaid
-Copy
-Edit
 flowchart TD
     A[User Text Input] --> B{Content Type Detected}
     B -->|Text| C[Text Generator]
@@ -43,13 +40,11 @@ flowchart TD
     B -->|Music| E[Music Generator]
     B -->|Video| F[Video Generator]
     C & D & E & F --> G[Unified Output Display]
-🚀 Getting Started
+    
+# 🚀 Getting Started
 Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/<your-username>/ZumbleBot.git
+git clone https://github.com/Yericherlajenissy/ZumbleBot.git
 cd ZumbleBot
 Setup environment:
 
@@ -71,7 +66,8 @@ Edit
 cd frontend
 npm install
 npm start
-📦 Future Roadmap
+
+# 📦 Future Roadmap
  Real-time voice-to-video generation
 
  Custom avatars and voices
