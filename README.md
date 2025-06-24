@@ -78,7 +78,7 @@ npm start
 
  Add fun personality modes (e.g., sarcastic bot, poetic bot)
 
-😄 Fun but Serious Title Suggestions
+# 😄 Fun but Serious Title Suggestions
 “ZumbleBot: Generative AI’s One-Stop Chaos Shop”
 “ZumbleBot: Input Text, Output Anything!”
 “ZumbleBot – AI's Buffet Table. Text In. Everything Out.”
