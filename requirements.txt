@@ -1,6 +1,5 @@
-huggingface_hub
-diffusers
 flask
+torch
 transformers
 Pillow
 numpy
@@ -8,11 +7,3 @@ opencv-python
 openai
 librosa
 soundfile
-torch
-accelerate
-transformers
-pydub
-jukebox
-pygments
-gradio
-gradio_client
