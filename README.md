@@ -32,7 +32,7 @@ Text Generation	LLaMA 3 / GPT models
 Platform	Google Colab + Local Execution
 Version Control	Git + GitHub
 
-🧪 How It Works
+# 🧪 How It Works
 mermaid
 Copy
 Edit
