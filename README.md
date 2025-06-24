@@ -21,7 +21,7 @@ To create a single platform that integrates text-to-text, text-to-image, text-to
 
 📦 Lightweight Deployment: Minimal dependencies, easy to run on Colab
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Component	Technology
 Frontend UI	React, Tailwind CSS
 Backend API	Python (Flask / FastAPI)
