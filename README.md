@@ -59,7 +59,9 @@ python app.py
 Run the frontend:
 
 cd frontend
+
 npm install
+
 npm start
 
 # 📦 Future Roadmap
@@ -79,9 +81,6 @@ npm start
 “ZumbleBot: Input Text, Output Anything!”
 
 “ZumbleBot – AI's Buffet Table. Text In. Everything Out.”
-
-# 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # 👥 Contributors
 Zenissy – Project Lead & Developer
