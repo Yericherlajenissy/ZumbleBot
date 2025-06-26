@@ -54,10 +54,9 @@ Or run locally with a requirements.txt provided.
 
 Run the backend:
 
-
 python app.py
-Run the frontend:
 
+Run the frontend:
 
 cd frontend
 npm install
