@@ -83,4 +83,4 @@ npm start
 “ZumbleBot – AI's Buffet Table. Text In. Everything Out.”
 
 # 👥 Contributors
-Zenissy – Project Lead & Developer
+Zenissy C– Project Lead & Developer
