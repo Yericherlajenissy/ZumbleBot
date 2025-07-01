@@ -1,4 +1,4 @@
-# 🤖 ZumbleBot – One Bot to Generate Them All!
+# 🤖 ZumbleBot – One Bot to Generate Them All
 ZumbleBot is a unified generative AI platform that takes text as input and produces text, images, music, and video as output. It's designed to eliminate the need for juggling multiple generation tools — everything is bundled in one intelligent, multimodal AI system.
 
 ZumbleBot is an innovative multimodal AI platform designed to generate multiple forms of content—text, images, music, and video—all from a single text prompt. Built as a final-year engineering capstone project, ZumbleBot integrates several state-of-the-art generative AI models into one unified interface. Instead of relying on separate tools like ChatGPT for text, DALL·E or Stable Diffusion for images, MusicGen for audio, and Sora or AnimateDiff for video, ZumbleBot brings them together in one place. This allows a user to input a simple prompt (for example, “A magical forest adventure”) and receive a short story, an illustration, a background soundtrack, and even a short animated video—all generated automatically in response.
