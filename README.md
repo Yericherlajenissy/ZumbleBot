@@ -1,4 +1,5 @@
 
+
 # 🤖 ZumbleBot – One Bot to Generate Them All
 ZumbleBot is a unified generative AI platform that takes text as input and produces text, images, music, and video as output. It's designed to eliminate the need for juggling multiple generation tools — everything is bundled in one intelligent, multimodal AI system.
 
